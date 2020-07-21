@@ -1,10 +1,10 @@
-# Brazilian Sign Language Alphabet Dataset
+## Brazilian Sign Language Alphabet Dataset
 
-## Authors
+### Authors
 
 Bianka Tallita Passos, Anita Maria da Rocha Fernandes, Eros Comunello
 
-## Affiliations
+### Affiliations
 
 University of Itajaí Valley – UNIVALI. Santa Catarina – Brazil.
 
@@ -27,19 +27,19 @@ The annotation of the object present in the image was performed with the aim of 
 
 The annotations were made with LabelImg² - a graphic tool that can be used to annotate images by creating a bounding box on the objects of interest. As a result a file in XML (Extensible Markup Language) format is generated containing the ROI (region of interest) coordinates of all the bounded objects, as well as their label.
 
-## References
+### References
 ¹ https://www.kaggle.com/grassknoted/asl-alphabet
 
 ² https://github.com/tzutalin/labelImg
 
-## DOI
+### DOI
 10.17632/k4gs3bmx5k.3
 
-## Cite this dataset
+### Cite this dataset
 [Passos, Bianka Tallita; Fernandes, Anita M. R.; Comunello, Eros (2020), “Brazilian Sign Language Alphabet”, Mendeley Data, V3, doi: 10.17632/k4gs3bmx5k.3](http://dx.doi.org/10.17632/k4gs3bmx5k.3)
 
-## Corresponding author(s)
+### Corresponding author(s)
 [Bianka Passos](biankatpas@gmail.com)
 
-## Download
+### Download
 [zipball](.zip)
