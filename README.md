@@ -42,4 +42,4 @@ The annotations were made with LabelImg² - a graphic tool that can be used to a
 [Bianka Passos](biankatpas@gmail.com)
 
 ## Download
-[zipball]()
+[zipball](.zip)
