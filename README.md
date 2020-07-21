@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Brazilian Sign Language Alphabet Dataset
 
-You can use the [editor on GitHub](https://github.com/biankatpas/Brazilian-Sign-Language-Alphabet-Dataset/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Authors
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bianka Tallita Passos, Anita Maria da Rocha Fernandes, Eros Comunello
 
-### Markdown
+## Affiliations
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+University of Itajaí Valley – UNIVALI. Santa Catarina – Brazil.
 
-```markdown
-Syntax highlighted code block
+### Data Description 
 
-# Header 1
-## Header 2
-### Header 3
+This database contains images of Brazilian Sign Language Alphabet - (BSL, also known as LIBRAS). The database was developed using images previously available in Kaggle¹. The characteristics of the data obtained are listed below:
 
-- Bulleted
-- List
+* The database consists of 3,000 images of each sign representing the alphabet of the American Sign Language - ASL - which are 200x200 pixels.;
+* The images show variations in scale, distance, lighting and execution; and
+* The catches have a homogeneous background.
 
-1. Numbered
-2. List
+This database was developed using only the images available in Kaggle. In all, images of 15 ASL static signals were selected, which have the same representation in LIBRAS. The database contains 4411 images of signs representing the LIBRAS alphabet. The characteristics of the database are:
 
-**Bold** and _Italic_ and `Code` text
+* It contains images representing 15 signs of the LIBRAS alphabet: A, B, C, D, E, I, L, M, N, O, R, S, U, V and W;
+* Each class/sign of the alphabet has between 150 and 600 samples;
+* The images have homogeneous background; and
+* The images have annotations that delimit the area of the image belonging to the object/sign of the alphabet.
 
-[Link](url) and ![Image](src)
-```
+The annotation of the object present in the image was performed with the aim of creating a ground truth for evaluating algorithms of object detection, as well as enabling the training of classifiers to perform the detection.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The annotations were made with LabelImg² - a graphic tool that can be used to annotate images by creating a bounding box on the objects of interest. As a result a file in XML (Extensible Markup Language) format is generated containing the ROI (region of interest) coordinates of all the bounded objects, as well as their label.
 
-### Jekyll Themes
+## References
+¹ https://www.kaggle.com/grassknoted/asl-alphabet
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/biankatpas/Brazilian-Sign-Language-Alphabet-Dataset/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+² https://github.com/tzutalin/labelImg
 
-### Support or Contact
+## DOI
+10.17632/k4gs3bmx5k.3
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Cite this dataset
+[Passos, Bianka Tallita; Fernandes, Anita M. R.; Comunello, Eros (2020), “Brazilian Sign Language Alphabet”, Mendeley Data, V3, doi: 10.17632/k4gs3bmx5k.3](http://dx.doi.org/10.17632/k4gs3bmx5k.3)
+
+## Corresponding author(s)
+[Bianka Passos](biankatpas@gmail.com)
+
+## Download
+[zipball]()
