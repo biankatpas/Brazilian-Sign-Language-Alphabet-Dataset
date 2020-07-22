@@ -39,7 +39,7 @@ The annotations were made with LabelImg² - a graphic tool that can be used to a
 [Passos, Bianka Tallita; Fernandes, Anita M. R.; Comunello, Eros (2020), “Brazilian Sign Language Alphabet”, Mendeley Data, V3, doi: 10.17632/k4gs3bmx5k.3](http://dx.doi.org/10.17632/k4gs3bmx5k.3)
 
 ### Corresponding author(s)
-[Bianka Passos](biankatpas@gmail.com)
+[Bianka Passos](mailto:biankatpas@gmail.com)
 
 ### Download
-[zipball](.zip)
+[Mendeley Data](.zip)
