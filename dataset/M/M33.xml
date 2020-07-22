@@ -1,0 +1,26 @@
+<annotation>
+	<folder>done_2</folder>
+	<filename>M33.jpg</filename>
+	<path>/home/biankatpas/workspace/tcc/dataset/asl_alphabet_train/M/done_2/M33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>m</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>38</ymin>
+			<xmax>185</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>

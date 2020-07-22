@@ -1,0 +1,26 @@
+<annotation>
+	<folder>I</folder>
+	<filename>I1143.jpg</filename>
+	<path>/home/biankatpas/workspace/tcc/dataset/asl_alphabet_train/I/I1143.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>i</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>5</ymin>
+			<xmax>106</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>

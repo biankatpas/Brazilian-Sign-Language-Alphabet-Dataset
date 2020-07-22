@@ -1,0 +1,26 @@
+<annotation>
+	<folder>A</folder>
+	<filename>A1422.jpg</filename>
+	<path>/home/biankatpas/workspace/tcc/dataset/asl_alphabet_train/A/A1422.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>45</ymin>
+			<xmax>109</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+</annotation>

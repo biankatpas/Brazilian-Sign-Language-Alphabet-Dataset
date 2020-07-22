@@ -1,0 +1,26 @@
+<annotation>
+	<folder>W</folder>
+	<filename>W1054.jpg</filename>
+	<path>/home/biankatpas/workspace/tcc/dataset/asl_alphabet_train/W/W1054.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>w</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>7</ymin>
+			<xmax>132</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>

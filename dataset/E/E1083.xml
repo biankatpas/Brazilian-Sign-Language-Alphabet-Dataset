@@ -1,0 +1,26 @@
+<annotation>
+	<folder>done</folder>
+	<filename>E1083.jpg</filename>
+	<path>/home/biankatpas/workspace/tcc/dataset/asl_alphabet_train/E/done/E1083.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>e</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>54</ymin>
+			<xmax>113</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+</annotation>

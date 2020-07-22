@@ -1,0 +1,26 @@
+<annotation>
+	<folder>V</folder>
+	<filename>V1073.jpg</filename>
+	<path>/home/biankatpas/workspace/tcc/dataset/asl_alphabet_train/V/V1073.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>v</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>52</ymin>
+			<xmax>159</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+</annotation>

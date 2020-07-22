@@ -1,0 +1,26 @@
+<annotation>
+	<folder>C</folder>
+	<filename>C1334.jpg</filename>
+	<path>/home/biankatpas/workspace/tcc/dataset/asl_alphabet_train/C/C1334.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>c</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>60</ymin>
+			<xmax>160</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>
