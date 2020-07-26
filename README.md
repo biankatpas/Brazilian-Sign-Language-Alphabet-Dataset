@@ -23,9 +23,17 @@ This database was developed using only the images available in Kaggle. In all, i
 * The images have homogeneous background; and
 * The images have annotations that delimit the area of the image belonging to the object/sign of the alphabet.
 
+Figure 1 shows some images present in this database.
+
+![](/figures/1.png) 
+
 The annotation of the object present in the image was performed with the aim of creating a ground truth for evaluating algorithms of object detection, as well as enabling the training of classifiers to perform the detection.
 
-The annotations were made with LabelImg² - a graphic tool that can be used to annotate images by creating a bounding box on the objects of interest. As a result a file in XML (Extensible Markup Language) format is generated containing the ROI (region of interest) coordinates of all the bounded objects, as well as their label.
+The annotations were made with LabelImg² - a graphic tool that can be used to annotate images by creating a bounding box on the objects of interest - as shown in Figure 2.  
+
+![](/figures/2.png) 
+
+As a result a file in XML (Extensible Markup Language) format is generated containing the ROI (region of interest) coordinates of all the bounded objects, as well as their label.
 
 ### References
 ¹ https://www.kaggle.com/grassknoted/asl-alphabet
