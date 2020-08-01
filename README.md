@@ -41,13 +41,13 @@ As a result a file in XML (Extensible Markup Language) format is generated conta
 ² https://github.com/tzutalin/labelImg
 
 ### DOI
-10.17632/k4gs3bmx5k.3
+10.17632/k4gs3bmx5k.4
 
 ### Cite this dataset
-[Passos, Bianka Tallita; Fernandes, Anita M. R.; Comunello, Eros (2020), “Brazilian Sign Language Alphabet”, Mendeley Data, V3, doi: 10.17632/k4gs3bmx5k.3](http://dx.doi.org/10.17632/k4gs3bmx5k.3)
+[Passos, Bianka Tallita; Fernandes, Anita M. R.; Comunello, Eros (2020), “Brazilian Sign Language Alphabet”, Mendeley Data, V4, doi: 10.17632/k4gs3bmx5k.4](http://dx.doi.org/10.17632/k4gs3bmx5k.4)
                       
 ### Corresponding author(s)
 [Bianka Passos](mailto:biankatpas@gmail.com)
 
 ### Download
-[Mendeley Data](https://data.mendeley.com/datasets/k4gs3bmx5k/3)
+[Mendeley Data](https://data.mendeley.com/datasets/k4gs3bmx5k/4)
